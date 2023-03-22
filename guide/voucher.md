@@ -4,16 +4,15 @@ Rimo Voucher (RV) is pack of Rimo in specific qty as content.
 
 ## Creation
 - RV can be created by any user within Rimo App.
-- User can create up to a maximum of 20 units RV per batch.
+- Only a maximum of one RV can be created every 1 minute.
 - One time activation code will be assigned to each RV upon creation.
 - RV Expiry is default as 60 days from creation. 1 Rimo is required for every additional 10 days, with a max of 300 additional days. Expiry is set upon creation and cannot be changed.
 - 2 Rimo is required for creation of each RV.
-- For example, to create a batch of 5 RV with 20 Rimo, with an expiry of 90 days:
+- For example, to create one RV with 20 Rimo, with an expiry of 90 days:
   - RV content is 20 Rimo.
   - Creation requires 2 Rimo.
   - Expiry 90 days means additional 30 days. 3 Rimo is required.
-  - A batch of 5 RV.
-  - Total Rimo required = 5 x (20 + 2 + 3) = 125 Rimo.
+  - Total Rimo required = (20 + 2 + 3) = 25 Rimo.
 
 ## Transfer
 - RV can be transfered from one owner to another.
